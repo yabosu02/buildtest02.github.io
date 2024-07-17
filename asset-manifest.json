@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/build-test/static/css/main.0e17630f.css",
+    "main.js": "/build-test/static/js/main.b1112a73.js",
+    "static/media/note1.jpg": "/build-test/static/media/note1.2c7b20f54378ee21d7b0.jpg",
+    "index.html": "/build-test/index.html",
+    "main.0e17630f.css.map": "/build-test/static/css/main.0e17630f.css.map",
+    "main.b1112a73.js.map": "/build-test/static/js/main.b1112a73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e17630f.css",
+    "static/js/main.b1112a73.js"
+  ]
+}
